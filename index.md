@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to Huang's Homepage
 
-You can use the [editor on GitHub](https://github.com/Michileo/Homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>黄华津</h1>
+      <p><b>Ph.D.candidate</b></p>
+      <p><b>Communication University of China</b></p>
+      <p><b>Email：cee@cuc.edu.cn</b></p>
+    </td>
+    <td width="25%">
+      <img src="/ecae400a8a11ee2b5be7e842d74fd2e.jpg" width="100%"> 
+    </td>
+  </tr>
+</table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+A social science scholar interested in measuring the social information production and flow, finding the impact of information systems on governance.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# 高慧军;黄华津;吴竞妍; (2020). 全媒体在国家治理中的价值及其实现机制. 中国行政管理, 12, 97-103+137.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Michileo/Homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Why you'd want to go on a date with me
