@@ -45,6 +45,7 @@
 
 #### Digital Platform and Collaborative Governance Sustainability: A Case Analysis of “Health Code” Policy in China,The Program of the 10th Sino-US International Conference on Public Administration（第十届中美公共管理国际研讨会）,2021
 #### Diffusion and learning of national governance innovation in the post epidemic era: policy international diffusion and complex evolution theory,The Program of the 10th Sino-US International Conference on Public Administration（第十届中美公共管理国际研讨会）,2021
+#### 新时代政府公共关系优化，第二届融媒体与公共治理论坛，2019
 #### 市民广场自主治理研究——以中国深圳市市民中心广场为例，改革开放40年：中国式治理论坛，2018
 
 # 奖学金
